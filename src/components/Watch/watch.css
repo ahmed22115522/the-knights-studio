@@ -1,0 +1,48 @@
+.watch-text{
+    background: -webkit-linear-gradient(#aa8345, #111);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 70px;
+}
+.sup-watch{
+    margin-top: -15px !important;
+    font-size: 30px;
+    letter-spacing: 6px;
+    color: rgb(198,198,198);
+}
+.item-image {
+    overflow: hidden;
+    border-radius: 40px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.item-desc{
+    border-radius: 0px 40px 0px 40px;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(72,50,14);
+}
+
+.item-desc-absoloute{
+    position: absolute;
+    background-color: rgb(170,131,69);
+    border-radius: 0px 0px 0px 40px;
+    width: 8%;
+    height: 100%;
+    top: 0;
+    right: 0;
+}
+
+.watch-section{
+    position: relative;
+}
+
+.section-spacing{
+    position: absolute;
+    bottom: 0;
+    right: 50%;
+    width: 150px;
+    transform: translate(50%);
+    height: 5px;
+    background-color: white;
+}

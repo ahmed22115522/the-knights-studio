@@ -1,0 +1,80 @@
+.prices-desc-h{
+    font-size: 60px !important;
+    background: -webkit-linear-gradient(#aa8345, #111);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.prime-color{
+    color: rgb(137,106,58);
+}
+.white-color{
+    color: rgb(198,198,198);
+}
+.prices-desc-click{
+    font-size: 10px;
+    cursor: pointer;
+}
+.plan-name{
+    border-radius: 0px 40px 0px 40px;
+    width: 50%;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+    background-color: rgb(211,211,211);
+    color: rgb(113,113,113);;
+}
+.plan-logo{
+    position: absolute;
+    width: 50px;
+    height: 50%;
+    top: 0;
+    border-radius: 0px 50px ;
+    background-color: rgb(113,113,113);
+}
+.active-plan{
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+    height: 5px;
+    background-color: rgb(151,117,63);
+}
+.gold {
+    background-color: rgb(149,129,128);
+}
+.gold-txt{
+    color: rgb(149,129,128);;
+}
+.diamond{
+    background-color: rgb(128,140,149);
+}
+.diamond-txt{
+    color: rgb(128,140,149);;
+}
+.plan-dec{
+    height: 350px;
+    width: 250px;
+    border-radius: 0px 70px 0px 70px;
+    position: relative;
+    overflow: hidden;
+}
+.plan-desc-name{
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+    height: 15%;
+    width: 100%;
+    background-color: rgb(170, 131, 69);
+    z-index: 3;
+    border-radius: 0px 90px 0px 90px;
+}
+.section-spacing{
+    margin-top: 20px;
+    right: 50%;
+    width: 150px;
+    height: 5px;
+    margin-bottom: -30px;
+    background-color: white;
+}
+.plan-section{
+    position: relative;
+}

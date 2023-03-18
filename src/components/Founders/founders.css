@@ -1,0 +1,17 @@
+.founder-h{
+    font-size: 45px;
+    margin: 0;
+}
+.gold-txt-founders{
+    background: -webkit-linear-gradient(#ce9e51, #111);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.white-txt-founders{
+    background: -webkit-linear-gradient(#fff, #111);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.founders-profile{
+    border-radius: 50%;
+}
