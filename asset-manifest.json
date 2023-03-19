@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/the-knights-studio/static/css/main.69690a17.css",
-    "main.js": "/the-knights-studio/static/js/main.fcfcc8f2.js",
+    "main.css": "/the-knights-studio/static/css/main.2bd709fd.css",
+    "main.js": "/the-knights-studio/static/js/main.e4dbeb51.js",
     "static/media/product-photos.png": "/the-knights-studio/static/media/product-photos.8ffd6684027bb7618cc0.png",
     "static/media/shining-coin-dollar.png": "/the-knights-studio/static/media/shining-coin-dollar.13e3e5eaa4afbb4528fb.png",
     "static/media/IMG_55.jpg": "/the-knights-studio/static/media/IMG_55.ce8abac337567bd93b82.jpg",
@@ -12,6 +12,7 @@
     "static/media/fotel-rezysera-scaled.jpg": "/the-knights-studio/static/media/fotel-rezysera-scaled.b9917e8ab1d2941712f1.jpg",
     "static/media/img_jpg": "/the-knights-studio/static/media/img_279d8bf30e659e169bf99ecff2410196.25be7b008057d4592c61.jpg",
     "static/media/20190814094413-shutterstock-1035432709.jpg": "/the-knights-studio/static/media/20190814094413-shutterstock-1035432709.4c19b1cb8e6f49eec8b6.jpg",
+    "static/media/Simple-Location-Picker.jpg": "/the-knights-studio/static/media/Simple-Location-Picker.d27cb18d858d596e3df9.jpg",
     "static/media/scroll-of-old-pap2.png": "/the-knights-studio/static/media/scroll-of-old-pap2.bc976cc2d1c2079bee3c.png",
     "static/media/202on-svg.png": "/the-knights-studio/static/media/202on-svg.537ae0078be2b2529d15.png",
     "static/media/key.png": "/the-knights-studio/static/media/key.bd0dac34a5f94c3b0c02.png",
@@ -19,11 +20,11 @@
     "static/media/arrow.png": "/the-knights-studio/static/media/arrow.4e8854f145241f618ade.png",
     "static/media/home.png": "/the-knights-studio/static/media/home.d123c247925cdcec3fdf.png",
     "index.html": "/the-knights-studio/index.html",
-    "main.69690a17.css.map": "/the-knights-studio/static/css/main.69690a17.css.map",
-    "main.fcfcc8f2.js.map": "/the-knights-studio/static/js/main.fcfcc8f2.js.map"
+    "main.2bd709fd.css.map": "/the-knights-studio/static/css/main.2bd709fd.css.map",
+    "main.e4dbeb51.js.map": "/the-knights-studio/static/js/main.e4dbeb51.js.map"
   },
   "entrypoints": [
-    "static/css/main.69690a17.css",
-    "static/js/main.fcfcc8f2.js"
+    "static/css/main.2bd709fd.css",
+    "static/js/main.e4dbeb51.js"
   ]
 }
